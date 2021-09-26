@@ -257,11 +257,11 @@ margin-top: 15px;
 margin-left: 23px;
 	}
 }
-@media only screen and (max-hight: 440px)
+@media only screen and (max-width: 470px)
 {
 		.main-content
 	{
-		top: 80%;
-		bottom: 20%;
+		top: 40%;
+		bottom: 60%;
 	}
 }
